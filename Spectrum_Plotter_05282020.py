@@ -8,7 +8,6 @@ Created on Fri May  8 17:01:50 2020
 
 
 import matplotlib.pyplot as plt
-import numpy as np
 import pandas as pd
 import datetime as dt
 import re
