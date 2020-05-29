@@ -8,11 +8,9 @@ Created on Fri May 29 17:15:58 2020
 
 
 import matplotlib.pyplot as plt
-import numpy as np
 import pandas as pd
 import datetime as dt
 import re
-import matplotlib.style
 from matplotlib.lines import Line2D
 
 s = pd.read_csv('Edit_This.csv') # reads the .csv file can be found in dropbox > shared manuscripts > Ravi Ben MoOx Nucleation and LEIS > Figures
